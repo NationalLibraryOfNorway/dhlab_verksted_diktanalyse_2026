@@ -1,1 +1,1 @@
-poetry_analysis
+poetry-analysis

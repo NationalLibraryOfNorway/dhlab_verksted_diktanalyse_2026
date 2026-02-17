@@ -1,1 +1,1 @@
-poetry-analysis
+poetry-analysis>=0.3.14
